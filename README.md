@@ -36,12 +36,19 @@ LANGCHAIN_PROJECT=Simple Q&A ChatBot With GROQ
 
 
 1. Clone the repository:
-```git clone https://github.com/yourusername/groq-multi-model-chatbot.gitcd groq-multi-model-chatbot```
+```
+git clone https://github.com/yourusername/groq-multi-model-chatbot.gitcd groq-multi-model-chatbot
+```
 
 2. Install dependencies:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 3. Add your .env file with API keys.
 
+
 4. Run the Streamlit app:
-   ```streamlit run app.py```
+```
+streamlit run app.py
+```
