@@ -37,7 +37,8 @@ LANGCHAIN_PROJECT=Simple Q&A ChatBot With GROQ
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/groq-multi-model-chatbot.gitcd groq-multi-model-chatbot
+git clone https://github.com/yourusername/groq-multi-model-chatbot.git
+cd groq-multi-model-chatbot
 ```
 
 2. Install dependencies:
